@@ -1,0 +1,36 @@
+# Configurações sensíveis
+config.py
+credentials.json
+oauth_credentials.json
+token.json
+.env
+
+# Relatórios gerados
+relatorio_textil_*.xlsx
+*.xlsx
+
+# Dumps
+textil_dump.sql
+*.sql
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
